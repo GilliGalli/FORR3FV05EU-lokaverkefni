@@ -66,3 +66,5 @@ Hann var of stór og material-in fyrir peysu, buxur og skó virtust vera einhver
 <img src="myndir/EmilMetahumanAR2.png" alt="Emil í AR, semi-venjuleg stærð núna en ennþá í gráum fötum" width="300">
 
 Þetta var því miður eins langt og ég komst, en ég mun örugglega reyna að halda áfram eitthvað með MetaHuman af Emil í framtíðinni, mig langar sérstaklega að reyna að blanda saman MetaHuman, RVC (eða einhverju öðru AI voice cloning forriti) og ChatGPT (eða öðru conversational AI) og gera Emil Chatbot.
+
+## [APK](/apk)
